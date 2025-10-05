@@ -20,7 +20,7 @@ def print_lyrics():
         "Tu hai toh...",
         "Tu hai toh...",
     ]
-    delays = [1.4, 1.2, 1.6, 1.9, 2.2, 1.5, 1.8, 1.8, 1.5, 1.6]
+    delays = [2.0, 2.0, 2.5, 2.5, 3.0, 2.5, 2.5, 2.5, 2.5, 2.0]
 
     print("— Now Playing: \n Now Playing: “Tu hai toh” — Mr and Mrs Mahi\n")
     time.sleep(1.5)
