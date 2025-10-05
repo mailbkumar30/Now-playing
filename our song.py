@@ -23,7 +23,7 @@ def print_lyrics():
     delays = [2.0, 2.0, 2.5, 2.5, 3.0, 2.5, 2.5, 2.5, 2.5, 2.0]
 
     print("— Now Playing: \n Now Playing: “Tu hai toh” — Mr and Mrs Mahi\n")
-    time.sleep(1.5)
+    time.sleep(1.0)
 
     for i, line in enumerate(lyrics):
         type_lyric(line)
